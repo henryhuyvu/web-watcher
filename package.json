@@ -1,0 +1,26 @@
+{
+  "name": "web-watcher",
+  "version": "1.0.0",
+  "description": "A web app for monitoring and notifying changes in specific webpage elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryhuyvu/web-watcher.git"
+  },
+  "keywords": [
+    "web",
+    "scraper",
+    "change-tracker",
+    "nextjs",
+    "typescript"
+  ],
+  "author": "Henry Vu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henryhuyvu/web-watcher/issues"
+  },
+  "homepage": "https://github.com/henryhuyvu/web-watcher#readme"
+}
